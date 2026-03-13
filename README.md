@@ -91,4 +91,5 @@ MIT
 
 ## By
 
-Vishal Meyyappan R
+Vishal Meyyappan R and Cube Dynamics team
+
