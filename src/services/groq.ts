@@ -1,5 +1,5 @@
 // Hardcoded API Key (Ideally should be in .env)
-const GROQ_API_KEY = "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";
+const GROQ_API_KEY = "Guys put your api key here!!!";
 
 export interface ChatMessage {
     role: 'user' | 'assistant' | 'system';
@@ -74,3 +74,4 @@ export async function sendMessageToGroq(history: ChatMessage[]): Promise<string>
         return "⚠️ Communication Link Error. Unable to reach Mission Control (Groq API).";
     }
 }
+
