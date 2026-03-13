@@ -89,6 +89,6 @@ npm run build
 
 MIT
 
-## Author
+## By
 
-Built for CubeSat HIL simulation research and education.
+Vishal Meyyappan R
